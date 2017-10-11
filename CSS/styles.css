@@ -1,3 +1,27 @@
+body {
+  background-color: #f2c9ff;
+  color: #d34185;
+  text-align: center;
+}
+
+a:link {
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: hotpink;
+  font-weight: bold;
+}
+
+a:active {
+  color: yellow;
+  font-size: 20px;  
+}
+
 .flashy {
   color: #ff4e3a;
   font-style: italic;
